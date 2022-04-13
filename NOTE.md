@@ -9,3 +9,5 @@ Static file: files that are in the file system but we can not access using all r
 Mongoose is all about models, it's just the blueprint that we use to create documents
 
 We can create models out of Mongoose Schema
+
+Test to work with git
