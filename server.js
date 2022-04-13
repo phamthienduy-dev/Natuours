@@ -18,7 +18,7 @@ mongoose
     useUnifiedTopology: true
   })
   .then(() => {
-    console.log("DB connection successful");
+    console.log("DB connection successful!!!");
   });
 
 // Specify the port that the app will listen on
